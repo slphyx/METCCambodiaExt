@@ -14,3 +14,8 @@ EQ<-function(L, N, oldeq, transit,transitionsiu1,transitionsiu2,transitionsiv1,t
   )[[9]]
 
 }
+
+
+test <- function(a,b){
+  .C("test",as.double(a),as.double(b))
+}
