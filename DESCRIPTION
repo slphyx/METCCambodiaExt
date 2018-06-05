@@ -1,0 +1,10 @@
+Package: METCCambodiaExt
+Type: Package
+Title: METCCambodiaExt
+Version: 0.1.0
+Author: Sompob Saralamba
+Maintainer: Sompob Saralamba <saralamba@gmail.com>
+Description: For using with METC-Cambodia App
+License: MIT
+Encoding: UTF-8
+LazyData: true

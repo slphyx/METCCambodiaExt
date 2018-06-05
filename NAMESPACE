@@ -1,0 +1,3 @@
+#useDynLib(eq0)
+export(EQ)
+#exportPattern("^[[:alpha:]]+")
